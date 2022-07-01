@@ -17,7 +17,10 @@ else
 fi
 
 
-
+# 建立資料夾路徑
+mkdir -p /root/datapool/sh/cdp/ad
+mkdir -p /root/datapool/error_log/cdp/ad
+mkdir -p /root/datapool/export_file/cdp/ad
 
 # 清空所屬 error_log 以及 export_file
 rm -rf /root/datapool/error_log/cdp/ad/*
