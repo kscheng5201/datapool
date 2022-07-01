@@ -1,8 +1,8 @@
 
 # 建立資料夾路徑
-mkdir -p /root/datapool/sh/nix/
-mkdir -p /root/datapool/export_file/nix/
-mkdir -p /root/datapool/error_log/nix/
+mkdir -p /root/datapool/sh/nix/bots_lifespan
+mkdir -p /root/datapool/export_file/nix/bots_lifespan
+mkdir -p /root/datapool/error_log/nix/bots_lifespan
 
 
 # 更新機器人的資訊
