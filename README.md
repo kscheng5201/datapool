@@ -17,4 +17,3 @@
 - NIX：來自 NIX 的資料源
   - bots_lifespan：聊天機器人的生命週期計算（僅在 dev）
   - nes_model：NES Model（已上 prod，非此版本）
-  - 
